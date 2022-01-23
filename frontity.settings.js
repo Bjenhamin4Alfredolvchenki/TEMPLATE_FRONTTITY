@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://kxcnm4fhjsxpd7iuosbja.mistajsay.com/service"
         }
       }
     },
