@@ -57,3 +57,6 @@ macOS .DS_Store files
 # Frontity
 build
 .vercel
+
+# dot env
+.env
